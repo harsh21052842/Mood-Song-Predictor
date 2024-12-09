@@ -30,7 +30,6 @@ Ensure you have the following installed:
 - Python 3.7 or above
 - pip (Python package manager)
 
-### Steps
-1. Clone the repository:
-   ```bash
+![image](https://github.com/user-attachments/assets/c67d3bd1-2b59-4d0b-84d0-c69850d9c6f3)
+
 
